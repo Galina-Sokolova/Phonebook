@@ -1,0 +1,58 @@
+февр. 04, 2023 4:50:38 PM Main main
+INFO: Start program
+февр. 04, 2023 4:50:42 PM Main main
+INFO: Stop program
+февр. 04, 2023 4:50:54 PM Main main
+INFO: Start program
+февр. 04, 2023 4:50:57 PM Filemanager fileExport
+INFO: Writing data to a file
+февр. 04, 2023 4:50:57 PM Main main
+INFO: Stop program
+февр. 04, 2023 4:51:03 PM Main main
+INFO: Start program
+февр. 04, 2023 4:51:06 PM Filemanager fileImport
+INFO: Uploading data from a file
+февр. 04, 2023 4:51:06 PM Main main
+INFO: Stop program
+февр. 04, 2023 4:56:09 PM Menu mainMenu
+INFO: program start
+февр. 04, 2023 4:56:12 PM Addressbook showAddressBook
+INFO: directory output to console
+февр. 04, 2023 4:56:12 PM Addressbook showAddressBook
+INFO: directory output to console
+февр. 04, 2023 4:56:12 PM Addressbook showAddressBook
+INFO: directory output to console
+февр. 04, 2023 4:56:12 PM Main main
+INFO: Stop program
+февр. 04, 2023 4:56:49 PM Menu mainMenu
+INFO: program start
+февр. 04, 2023 4:56:52 PM Addressbook showAddressBook
+INFO: directory output to console
+февр. 04, 2023 4:56:52 PM Main main
+INFO: Stop program
+февр. 04, 2023 4:57:31 PM Menu mainMenu
+INFO: program start
+февр. 04, 2023 4:57:34 PM Filemanager fileImport
+INFO: Uploading data from a file
+февр. 04, 2023 4:57:34 PM Addressbook showAddressBook
+INFO: directory output to console
+февр. 04, 2023 4:57:34 PM Menu mainMenu
+INFO: Stop program
+февр. 04, 2023 4:57:41 PM Menu mainMenu
+INFO: program start
+февр. 04, 2023 4:57:43 PM Filemanager fileExport
+INFO: Writing data to a file
+февр. 04, 2023 4:57:43 PM Menu mainMenu
+INFO: Stop program
+февр. 04, 2023 4:57:49 PM Menu mainMenu
+INFO: program start
+февр. 04, 2023 4:57:51 PM Addressbook showAddressBook
+INFO: directory output to console
+февр. 04, 2023 4:57:51 PM Menu mainMenu
+INFO: Stop program
+февр. 04, 2023 4:58:55 PM Menu mainMenu
+INFO: program start
+февр. 04, 2023 4:58:59 PM Addressbook showAddressBook
+INFO: directory output to console
+февр. 04, 2023 4:58:59 PM Menu mainMenu
+INFO: stop program
